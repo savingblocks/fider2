@@ -2,7 +2,7 @@
   <a href="https://fider.io">
     <img src="etc/logo-small.png" />
   </a>
-  <h1 align="center">Fider</h1>
+  <h1 align="center">Fider2</h1>
   <div align="center">
     <strong>A platform to collect and organize customer feedback.</strong>
   </div>
